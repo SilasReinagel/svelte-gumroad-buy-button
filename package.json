@@ -1,5 +1,5 @@
 {
-  "name": "SvelteComponent",
+  "name": "svelte-gumroad-buy-button",
   "svelte": "src/index.js",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
@@ -14,10 +14,24 @@
     "svelte": "^3.0.0"
   },
   "keywords": [
-    "svelte"
+    "svelte",
+    "gumroad",
+    "eCommerce"
   ],
   "files": [
     "src",
     "dist"
-  ]
+  ],
+  "description": "Svelte Gumroad Buy Button",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilasReinagel/svelte-gumroad-buy-button.git"
+  },
+  "author": "Silas Reinagel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SilasReinagel/svelte-gumroad-buy-button/issues"
+  },
+  "homepage": "https://github.com/SilasReinagel/svelte-gumroad-buy-button#readme"
 }
